@@ -6,7 +6,7 @@ and i made it compatible with Newer Versions.
 Full Credit goes to Eric, as the System itself is made by him,
 not by me. I only updated it.
 
-Included is the HudManager stuff, the ModRender-Stuff, and 2 Examplemods, FPS and coords.
+Included is the HudManager stuff, and 2 Examplemods, FPS and coords.
 
 NOTE: The RenderUtils-Class is used to render the Rectangles
 and Horizontal/Vertical Lines, as Minecraft iself has no methods for that anymore.
